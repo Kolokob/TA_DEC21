@@ -1,0 +1,3 @@
+y = 'yellow'
+
+x = 'red'
